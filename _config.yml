@@ -1,0 +1,13 @@
+# Site settings
+title: Jon Bradford's Blog
+email: blog@askgar.co.uk
+description: > # Just another Jon Bradford’s Blog Sites site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://askgar.co.uk" # the base hostname & protocol for your site
+twitter_username: askgar
+github_username:  jbradford
+timezone: Europe/London
+future: false
+
+# Build settings
+markdown: kramdown
