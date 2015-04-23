@@ -3,6 +3,7 @@ layout: post
 title:  "Rearchitecting using the Event Store: Getting Started"
 date:   2013-05-02 12:00:00
 categories: event store eventstore joliver ravendb
+visible: 1
 ---
 Being part of the [Event Store](https://geteventstore.com/) team, and having written a number of projects using the [JOliver Event Store](https://github.com/joliver/EventStore), taking the opportunity to convert an existing project to the Event Store while working on a major new version was an easy decision to make.  At the same time we will be phasing out [RavenDB](http://ravendb.net/) and switching to in memory view models, which can be rebuilt quickly, and have much lower overheads than RavenDB.
 
