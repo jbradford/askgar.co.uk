@@ -2,7 +2,6 @@
 layout: post
 title:  "OLWLG Vertical Bookmarklet"
 date:   2015-04-23 15:00:00
-visible: 1
 categories: olwlg bgg
 ---
 
