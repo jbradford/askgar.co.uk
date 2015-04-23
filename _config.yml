@@ -7,7 +7,6 @@ url: "http://askgar.co.uk" # the base hostname & protocol for your site
 twitter_username: askgar
 github_username:  jbradford
 timezone: Europe/London
-future: false
 
 # Build settings
 markdown: kramdown
